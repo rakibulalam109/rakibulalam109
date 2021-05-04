@@ -1,8 +1,8 @@
-### I am Rakibul Alam
+### This is Rakibul Alam
 -- I am a graduate in Computer Science and Engineering.
 - <strong>Reach out me----  </strong> rakibulalam109@gmail.com
 - <strong>Portfolio site </strong> https://rakibulalam109.github.io/MyPortfolio.github.io/
--  Love to Traveling, Browse Internet
+-  Love to Travel, Browse Internet
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/rakibulalam109/) 
 [![Facebook Add](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/rakibul.alam.1048)
@@ -23,12 +23,14 @@
 <p></p>
 <img align="left" alt="Git" height="31px" width="65px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img align="left" alt="GitHub" height="31px" width="65px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<br/>
+<img align="left" alt="Stack Overflow" height="31px" width="65px" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+<img align="left" alt="Windows" height="31px" width="65px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img align="left" alt="MS Office" height="31px" width="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 <br/>
 <br/>
 <br/>
 
-[![rakibulalam109's github stats](https://github-readme-stats.vercel.app/api?username=rakibulalam109&show_icons=true&theme=cobalt)](https://github.com/rakibulalam109/github-readme-stats)
+[![rakibulalam's github stats](https://github-readme-stats.vercel.app/api?username=rakibulalam109&show_icons=true&theme=cobalt)](https://github.com/rakibulalam109/github-readme-stats)
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulalam109&card_width=550&show_icons=true&theme=radical)](https://github.com/rakibulalam109)
 
