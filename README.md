@@ -25,7 +25,7 @@
 <img align="left" alt="GitHub" height="31px" width="65px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img align="left" alt="Stack Overflow" height="31px" width="65px" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 <img align="left" alt="Windows" height="31px" width="65px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img align="left" alt="MS Office" height="31px" width="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+<img align="left" alt="MS Office" height="31px" width="65px" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 <br/>
 <br/>
 <br/>
