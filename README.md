@@ -6,7 +6,7 @@
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/rakibulalam109/) 
 [![Facebook Add](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/rakibul.alam.1048)
-[![Messenger Add](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=messenger&logoColor=ffffff)](http://m.me/rakibul.alam.1048)
+[![Messenger Connect](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=messenger&logoColor=ffffff)](http://m.me/rakibul.alam.1048)
 [![Website portfolio](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=website&logoColor=ffffff)](https://rakibulalam109.github.io/MyPortfolio.github.io/)
 <br/>
 ### Languages and Tools:
