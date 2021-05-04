@@ -6,7 +6,6 @@
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/rakibulalam109/)
 [![Gmail Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=gmail&logoColor=ffffff)](https://mail.google.com/mail/u/0/?tab=rm#inbox)
-[![WhatsApp Connect](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=whatsapp&logoColor=ffffff)](https://wa.link/atka33)
 [![Facebook Add](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/rakibul.alam.1048)
 [![Messenger Connect](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=messenger&logoColor=ffffff)](http://m.me/rakibul.alam.1048)
 [![Website portfolio](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=website&logoColor=ffffff)](https://rakibulalam109.github.io/MyPortfolio.github.io/)
