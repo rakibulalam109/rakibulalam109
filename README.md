@@ -9,7 +9,7 @@
 [![Whatsapp Message](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=whatsapp&logoColor=ffffff)](https://wa.link/76znq8)
 [![Facebook Add](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/rakibul.alam.1048)
 [![Messenger Connect](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=messenger&logoColor=ffffff)](http://m.me/rakibul.alam.1048)
-[![Website portfolio](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=website&logoColor=ffffff)](https://rakibulalam109.github.io/MyPortfolio.github.io/)
+[![Website Portfolio](https://img.shields.io/badge/%20-Visit-black?color=14171A&labelColor=1976d2&logo=website&logoColor=ffffff)](https://rakibulalam109.github.io/MyPortfolio.github.io/)
 <br/>
 ### Languages and Tools:
 <img align="left" alt="CSharp" height="31px" width="65px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
