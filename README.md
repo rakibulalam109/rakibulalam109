@@ -1,10 +1,5 @@
 ### This is Rakibul Alam
--- I am a Software Engineer with over two years of experience, beginning my career as an Intern Software Engineer 
-at LEADS Corporation Limited, where I developed expertise in .NET. Currently, I work at Solution World Limited, 
-focusing on developing a chat application and resolving technical issues. Previously, I contributed to impactful 
-projects at Ellipsys Pvt. Limited, designing APIs using Angular and Spring Boot. With a strong foundation in 
-Computer Science and a passion for problem-solving, I am eager to drive innovation and support organizations 
-in achieving their business goals.
+-- I am a Software Engineer with over two years of experience, beginning my career as an Intern Software Engineer at LEADS Corporation Limited, where I developed expertise in .NET. Currently, I work at Solution World Limited, focusing on developing a chat application and resolving technical issues. Previously, I contributed to impactful projects at Ellipsys Pvt. Limited, designing APIs using Angular and Spring Boot. With a strong foundation in Computer Science and a passion for problem-solving, I am eager to drive innovation and support organizations in achieving their business goals.
 - <strong>Reach out me  </strong> rakibulalam109@gmail.com
 - <strong>Portfolio site  </strong> https://rakibulalam109.github.io/MyPortfolio.github.io/
 -  Love to Travel, Browse Internet
